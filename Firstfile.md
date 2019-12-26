@@ -2,5 +2,4 @@ First file
 
 test
 
-v1:  modification 1
-
+v1:  modification
